@@ -12,8 +12,6 @@ output:
 
 ## Instructions
 
-*For all questions, include the R commands/functions that you used to find your answer (show R chunk). Answers without supporting code will not receive credit. Write full sentences to describe your findings.*
-
 In this lab, you will write some simple R Markdown to ensure that you can compile R Markdown documents into PDF files. Assignments in this course will be submitted in the form of compiled PDF documents so it is important that you have the tools installed to do this.
 
 ### Install R Packages
